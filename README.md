@@ -1,4 +1,5 @@
 🛡️ Security Operations Dashboard (SOC)
+
 📌 Project Overview
 
 This project focuses on building a Security Operations Center (SOC) Dashboard to monitor, analyze, and visualize security login events from system logs.
@@ -15,6 +16,7 @@ High-risk behaviors such as late-night logins
 
 The project follows an end-to-end analytics approach using Python, SQL, and Power BI.
 
+
 🎯 Objectives
 
 Clean and preprocess raw security log data using Python
@@ -26,6 +28,7 @@ Identify risky users, IPs, and login trends
 Build an interactive SOC dashboard in Power BI
 
 Present security insights in a clear and visual manner
+
 
 🧰 Tools & Technologies Used
 
@@ -40,6 +43,7 @@ Power BI
 CSV Security Log Dataset
 
 GitHub (Version Control)
+
 
 📂 Project Structure
 Security-Operations-Dashboard/
@@ -65,6 +69,7 @@ Security-Operations-Dashboard/
 ├── requirements.txt
 └── .gitignore
 
+
 🔍 Key Analysis Performed
 🐍 Python (Data Cleaning & EDA)
 
@@ -75,6 +80,7 @@ Converted timestamps into date, hour, day, and month
 Created new feature: late_night_login
 
 Exploratory Data Analysis (EDA) to understand login behavior
+
 
 🗄️ SQL Analysis (MySQL)
 
@@ -101,6 +107,7 @@ Hour vs Day failed login heatmap logic
 
 Late-night login risk analysis
 
+
 📊 Power BI Dashboard KPIs
 
 The dashboard visualizes the following metrics:
@@ -121,6 +128,7 @@ Login Activity Over Time
 
 Hour vs Day Failed Login Heatmap
 
+
 🧠 Key Security Insights
 
 Certain users and IP addresses generate repeated failed login attempts
@@ -132,9 +140,14 @@ Late-night login activity may indicate suspicious behavior
 Time-based trends help identify peak attack windows
 
 
+---Dashboard Preview---
+open screenshot to see dashboard:-
+Dashboard_Screenshot.png
+
+
 🚀 How to Run This Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Security-Operations-Dashboard.git
+https://github.com/Vandana0210/security_operations_dashboard
 
 2️⃣ Run Python Analysis
 
@@ -173,3 +186,4 @@ B.Tech CSE (Cyber Security)
 
 Skills:
 Python | SQL | Power BI | Data Analytics
+
