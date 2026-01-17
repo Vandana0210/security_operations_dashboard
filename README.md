@@ -167,6 +167,8 @@ Open dashboard/Security_Operations_Dashboard.pbix
 
 Explore interactive visuals
 
+
+
 📌 Use Case
 
 This project is useful for:
@@ -179,6 +181,7 @@ Learning SIEM-style log analysis
 
 Demonstrating Python + SQL + Power BI integration
 
+
 👤 Author
 
 Vandana Kumari
@@ -186,4 +189,5 @@ B.Tech CSE (Cyber Security)
 
 Skills:
 Python | SQL | Power BI | Data Analytics
+
 
